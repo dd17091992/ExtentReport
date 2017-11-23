@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21677" started-at="2017-11-23T07:46:38Z" finished-at="2017-11-23T07:47:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21677" started-at="2017-11-23T07:46:38Z" finished-at="2017-11-23T07:47:00Z">
+      <class name="extentreports.com.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:extentreports.com.NewTest@42dafa95]" name="beforeTest" is-config="true" duration-ms="14778" started-at="2017-11-23T13:16:38Z" finished-at="2017-11-23T13:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:extentreports.com.NewTest@42dafa95]" name="f" duration-ms="4275" started-at="2017-11-23T13:16:53Z" finished-at="2017-11-23T13:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:extentreports.com.NewTest@42dafa95]" name="afterTest" is-config="true" duration-ms="2582" started-at="2017-11-23T13:16:57Z" finished-at="2017-11-23T13:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- extentreports.com.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
